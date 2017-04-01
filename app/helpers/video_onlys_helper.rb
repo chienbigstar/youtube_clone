@@ -1,0 +1,2 @@
+module VideoOnlysHelper
+end
